@@ -1,2 +1,1 @@
-# governance
-TNS Governance token on BSC
+# TNS Governance Token
